@@ -1,0 +1,13 @@
+# COMP9001 Assignment 2 - Civilisation stages
+# Format:  stage number, stage name, minimum population, minimum infrastructure, minimum technology
+# A civilisation starts at stage 1. To advance to a stage it must meet that stage's minimums.
+1, Ancient Settlement, 0, 0, 0
+2, Ancient City, 1500, 4, 2
+3, City-State, 3000, 6, 4
+4, Kingdom, 6000, 10, 6
+5, Empire, 12000, 16, 8
+6, Industrial Nation, 20000, 22, 12
+7, Modern Nation, 35000, 30, 16
+8, Digital Society, 55000, 39, 20
+9, Interplanetary Civilisation, 80000, 49, 25
+10, Space Colony, 120000, 60, 30

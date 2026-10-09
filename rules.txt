@@ -1,0 +1,44 @@
+# COMP9001 Assignment 2 - Simulation rules
+# Format:  name = value
+# All rates are fractions (0.08 means 8%). Do NOT change these values.
+
+# ---- Resource update (every turn) ----
+food_base_production = 0.75
+food_production_per_technology = 0.05
+food_per_person = 1.00
+growth_rate = 0.08
+famine_loss = 0.20
+food_storage_turns = 5
+overcrowding_loss = 0.10
+capacity_per_infrastructure = 3000
+tax_per_person = 0.15
+upkeep_per_infrastructure = 40
+
+# ---- Investment effects ----
+population_investment_gain = 0.10
+food_investment_gain = 0.80
+treasury_investment_gain = 0.40
+infrastructure_investment_gain = 2
+technology_investment_gain = 1
+
+# ---- Investment costs (paid from Treasury) ----
+population_investment_cost = 0.20
+food_investment_cost = 0.10
+treasury_investment_cost = 0
+infrastructure_investment_cost = 1200
+technology_investment_cost = 1200
+
+# ---- Investment cooldown ----
+cooldown_turns = 2
+
+# ---- Advancement ----
+base_advancement_chance = 50
+advancement_bonus = 10
+damaging_event_penalty = 20
+max_advancement_chance = 90
+comfortable_food_turns = 1.0
+comfortable_treasury_per_stage = 500
+
+# ---- Extinction ----
+minimum_population = 250
+max_zero_food_turns = 2

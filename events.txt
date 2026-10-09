@@ -1,0 +1,15 @@
+# COMP9001 Assignment 2 - Natural events
+# Format:  event name, lower bound, upper bound, effects
+# Effects are separated by ';'. Each effect is  Resource:change
+#   a change ending in '%' is a percentage of the current value (e.g. Food:-30%)
+#   a change without '%' is a fixed amount (e.g. Infrastructure:-1)
+# An event with no effects has an empty effects field.
+Drought, 0.00, 0.14, Food:-30%
+Disease, 0.15, 0.29, Population:-15%
+Invasion, 0.30, 0.44, Population:-10%; Treasury:-20%
+Flood, 0.45, 0.59, Food:-20%; Infrastructure:-1
+Earthquake, 0.60, 0.69, Infrastructure:-2; Treasury:-15%
+Excellent Harvest, 0.70, 0.79, Food:+30%
+Trade Boom, 0.80, 0.89, Treasury:+30%
+Scientific Breakthrough, 0.90, 0.94, Technology:+1
+No Major Event, 0.95, 0.99,
