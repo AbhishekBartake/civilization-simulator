@@ -1,4 +1,3 @@
-from trait import EngineeringTrait
 class Civilisation:
     MAX_YEAR = 3000
 
@@ -110,7 +109,7 @@ class Civilisation:
             self.population * adjusted_rules["tax_per_person"]
         )
 
-        upkeep = (
+        upkeep = int(
             self.infrastructure
             * adjusted_rules["upkeep_per_infrastructure"]
         )
@@ -129,18 +128,18 @@ class Civilisation:
     def apply_event(self, event):
         for resource, effect in event["effects"].items():
             amount = effect["amount"]
+            attribute = resource.lower()
+            current_value = getattr(self, attribute)
 
             if effect["is_percentage"]:
-                current_value = getattr(
-                    self, resource.lower()
-                )
-
                 change = int(current_value * amount / 100)
             else:
                 change = amount
 
-            attribute = resource.lower()
-            current_value = getattr(self, attribute)
+            # Militaristic trait reduces damaging event losses by 25%.
+            if change < 0 and self.trait.NAME == "Militaristic":
+                change = self.trait.reduce_event_loss(resource, change)
+
             new_value = current_value + change
 
             if attribute in ("infrastructure", "technology"):
@@ -149,6 +148,7 @@ class Civilisation:
                 new_value = max(0, new_value)
 
             setattr(self, attribute, new_value)
+
     
     def  apply_investment(self,resource,rules):
         if resource == "Population":
@@ -169,8 +169,7 @@ class Civilisation:
             gain = rules["technology_investment_gain"]
         else:
             return
-        if resource=='Infrastructure':
-            gain = self.trait.investment_gain(resource, gain)
+        gain = self.trait.investment_gain(resource, gain)
 
         self.treasury -= cost
 
@@ -217,4 +216,39 @@ class Civilisation:
             del self.investment_cooldowns[resource]
     
     def start_cooldown(self, resource, rules):
-        self.investment_cooldowns[resource] = rules["cooldown_turns"]
+        self.investment_cooldowns[resource] = (
+            rules["cooldown_turns"] + 1
+        )
+
+    def can_advance_stage(self, stages):
+        next_stage_number = self.stage + 1
+
+        for stage in stages:
+            if stage["number"] == next_stage_number:
+                return (
+                    self.population >= stage["min_population"]
+                    and self.infrastructure >= stage["min_infrastructure"]
+                    and self.technology >= stage["min_technology"]
+                    and self.food > 0
+                    and self.treasury > 0
+                )
+
+        return False
+    
+    def advance_year(self):
+        self.year += 10
+    
+    def check_end_condition(self, rules, zero_food_turns):
+        if self.population < rules["minimum_population"]:
+            return "Population fell below the minimum"
+
+        if zero_food_turns >= rules["max_zero_food_turns"]:
+            return "Food has been zero for two consecutive turns"
+
+        if self.stage == 10:
+            return "Space Colony reached"
+
+        if self.year >= self.MAX_YEAR:
+            return "Year 3000 reached"
+
+        return None
