@@ -13,6 +13,7 @@ rules = {
     "infrastructure_investment_gain": 2,
     "technology_investment_cost": 1200,
     "technology_investment_gain": 1,
+    "cooldown_turns": 2,
 }
 
 trait = EngineeringTrait()

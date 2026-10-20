@@ -1,0 +1,3313 @@
+Student ID: 560760570
+Trait: Agricultural
+
+YEAR 0
+Stage: Ancient Settlement
+Population: 1,920
+Food: 4,280
+Treasury: 2,140
+Infrastructure: 2
+Technology: 1
+Advancement: Starting state
+
+YEAR 10
+Stage: Ancient Settlement
+Population: 2,073
+Food: 3,896
+Treasury: 789
+Infrastructure: 3
+Technology: 1
+Event: Earthquake
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 20
+Stage: Ancient Settlement
+Population: 2,238
+Food: 4,406
+Treasury: 748
+Infrastructure: 3
+Technology: 1
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 30
+Stage: Ancient Settlement
+Population: 2,417
+Food: 3,167
+Treasury: 1,920
+Infrastructure: 2
+Technology: 1
+Event: Flood
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 40
+Stage: Ancient Settlement
+Population: 2,349
+Food: 2,683
+Treasury: 554
+Infrastructure: 2
+Technology: 2
+Event: Invasion
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 50
+Stage: Ancient Settlement
+Population: 2,283
+Food: 4,338
+Treasury: 425
+Infrastructure: 2
+Technology: 2
+Event: Invasion
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 60
+Stage: Ancient Settlement
+Population: 2,465
+Food: 3,995
+Treasury: 1,663
+Infrastructure: 2
+Technology: 3
+Event: Scientific Breakthrough
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 70
+Stage: Ancient City
+Population: 2,662
+Food: 3,748
+Treasury: 124
+Infrastructure: 4
+Technology: 3
+Event: Trade Boom
+Investment: Infrastructure
+Advancement: ADVANCED to Ancient City (chance 70%)
+
+YEAR 80
+Stage: Ancient City
+Population: 2,874
+Food: 7,053
+Treasury: 64
+Infrastructure: 4
+Technology: 3
+Event: Excellent Harvest
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 90
+Stage: Ancient City
+Population: 3,103
+Food: 6,765
+Treasury: 1,563
+Infrastructure: 4
+Technology: 4
+Event: Scientific Breakthrough
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 100
+Stage: Ancient City
+Population: 3,686
+Food: 5,288
+Treasury: 1,185
+Infrastructure: 3
+Technology: 4
+Event: Flood
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 110
+Stage: Ancient City
+Population: 3,980
+Food: 8,605
+Treasury: 1,204
+Infrastructure: 3
+Technology: 5
+Event: Scientific Breakthrough
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 120
+Stage: Ancient City
+Population: 4,298
+Food: 8,605
+Treasury: 215
+Infrastructure: 3
+Technology: 5
+Event: Earthquake
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 130
+Stage: Ancient City
+Population: 3,945
+Food: 8,605
+Treasury: 2,299
+Infrastructure: 3
+Technology: 5
+Event: Disease
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 140
+Stage: Ancient City
+Population: 4,260
+Food: 9,772
+Treasury: 2,328
+Infrastructure: 3
+Technology: 5
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 150
+Stage: Ancient City
+Population: 5,060
+Food: 6,841
+Treasury: 1,909
+Infrastructure: 3
+Technology: 5
+Event: Drought
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 160
+Stage: Ancient City
+Population: 5,464
+Food: 4,789
+Treasury: 4,711
+Infrastructure: 3
+Technology: 5
+Event: Drought
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 170
+Stage: Ancient City
+Population: 5,901
+Food: 6,225
+Treasury: 1,787
+Infrastructure: 5
+Technology: 5
+Event: Excellent Harvest
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 180
+Stage: Ancient City
+Population: 6,373
+Food: 9,965
+Treasury: 1,810
+Infrastructure: 5
+Technology: 5
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 190
+Stage: Ancient City
+Population: 6,194
+Food: 9,965
+Treasury: 4,509
+Infrastructure: 5
+Technology: 5
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 200
+Stage: Ancient City
+Population: 6,254
+Food: 9,965
+Treasury: 4,075
+Infrastructure: 5
+Technology: 5
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 210
+Stage: Ancient City
+Population: 6,079
+Food: 15,314
+Treasury: 3,222
+Infrastructure: 5
+Technology: 5
+Event: Invasion
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 220
+Stage: Ancient City
+Population: 5,581
+Food: 15,314
+Treasury: 6,140
+Infrastructure: 5
+Technology: 5
+Event: Disease
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 230
+Stage: City-State
+Population: 6,027
+Food: 10,720
+Treasury: 753
+Infrastructure: 7
+Technology: 5
+Event: Drought
+Investment: Infrastructure
+Advancement: ADVANCED to City-State (chance 60%)
+
+YEAR 240
+Stage: City-State
+Population: 6,509
+Food: 16,447
+Treasury: 1,106
+Infrastructure: 7
+Technology: 5
+Event: Trade Boom
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 250
+Stage: City-State
+Population: 6,572
+Food: 16,447
+Treasury: 579
+Infrastructure: 7
+Technology: 5
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 260
+Stage: City-State
+Population: 7,097
+Food: 16,447
+Treasury: 4,472
+Infrastructure: 7
+Technology: 5
+Event: Trade Boom
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 270
+Stage: City-State
+Population: 7,664
+Food: 28,125
+Treasury: 4,460
+Infrastructure: 7
+Technology: 5
+Event: Excellent Harvest
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 280
+Stage: City-State
+Population: 9,104
+Food: 22,500
+Treasury: 3,642
+Infrastructure: 6
+Technology: 5
+Event: Flood
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 290
+Stage: City-State
+Population: 8,358
+Food: 22,500
+Treasury: 8,072
+Infrastructure: 6
+Technology: 5
+Event: Disease
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 300
+Stage: City-State
+Population: 7,673
+Food: 22,500
+Treasury: 1,850
+Infrastructure: 8
+Technology: 5
+Event: Disease
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 310
+Stage: City-State
+Population: 7,748
+Food: 22,500
+Treasury: 1,240
+Infrastructure: 8
+Technology: 5
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 320
+Stage: City-State
+Population: 8,367
+Food: 23,112
+Treasury: 1,213
+Infrastructure: 8
+Technology: 5
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 330
+Stage: City-State
+Population: 9,036
+Food: 23,112
+Treasury: 5,726
+Infrastructure: 8
+Technology: 5
+Event: No Major Event
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 340
+Stage: City-State
+Population: 9,758
+Food: 30,045
+Treasury: 723
+Infrastructure: 8
+Technology: 6
+Event: Excellent Harvest
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 350
+Stage: City-State
+Population: 10,538
+Food: 30,646
+Treasury: 772
+Infrastructure: 8
+Technology: 6
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 360
+Stage: City-State
+Population: 11,381
+Food: 31,172
+Treasury: 6,242
+Infrastructure: 6
+Technology: 6
+Event: Earthquake
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 370
+Stage: City-State
+Population: 12,168
+Food: 31,741
+Treasury: 3,917
+Infrastructure: 6
+Technology: 6
+Event: Invasion
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 380
+Stage: City-State
+Population: 13,141
+Food: 37,443
+Treasury: 4,137
+Infrastructure: 5
+Technology: 6
+Event: Flood
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 390
+Stage: City-State
+Population: 14,192
+Food: 26,670
+Treasury: 11,528
+Infrastructure: 5
+Technology: 6
+Event: Drought
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 400
+Stage: City-State
+Population: 15,000
+Food: 27,379
+Treasury: 11,358
+Infrastructure: 7
+Technology: 6
+Event: Trade Boom
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 410
+Stage: City-State
+Population: 16,200
+Food: 33,947
+Treasury: 11,645
+Infrastructure: 7
+Technology: 6
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 420
+Stage: City-State
+Population: 17,496
+Food: 34,757
+Treasury: 6,526
+Infrastructure: 7
+Technology: 7
+Event: No Major Event
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 430
+Stage: City-State
+Population: 17,006
+Food: 36,506
+Treasury: 13,839
+Infrastructure: 7
+Technology: 7
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 440
+Stage: City-State
+Population: 18,366
+Food: 26,745
+Treasury: 7,638
+Infrastructure: 9
+Technology: 7
+Event: Drought
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 450
+Stage: City-State
+Population: 19,835
+Food: 46,035
+Treasury: 7,972
+Infrastructure: 9
+Technology: 8
+Event: Scientific Breakthrough
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 460
+Stage: City-State
+Population: 19,279
+Food: 49,010
+Treasury: 16,114
+Infrastructure: 9
+Technology: 8
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 470
+Stage: City-State
+Population: 20,821
+Food: 41,521
+Treasury: 8,964
+Infrastructure: 10
+Technology: 8
+Event: Flood
+Investment: Infrastructure
+Advancement: Failed (chance 60%)
+
+YEAR 480
+Stage: Kingdom
+Population: 22,486
+Food: 64,430
+Treasury: 9,351
+Infrastructure: 10
+Technology: 8
+Event: No Major Event
+Investment: Food
+Advancement: ADVANCED to Kingdom (chance 80%)
+
+YEAR 490
+Stage: Kingdom
+Population: 24,284
+Food: 67,802
+Treasury: 20,108
+Infrastructure: 8
+Technology: 8
+Event: Earthquake
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 500
+Stage: Kingdom
+Population: 20,400
+Food: 71,444
+Treasury: 13,428
+Infrastructure: 10
+Technology: 8
+Event: Disease
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 510
+Stage: Kingdom
+Population: 22,032
+Food: 93,891
+Treasury: 11,399
+Infrastructure: 8
+Technology: 8
+Event: Earthquake
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 520
+Stage: Kingdom
+Population: 23,794
+Food: 77,756
+Treasury: 4,691
+Infrastructure: 7
+Technology: 9
+Event: Flood
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 530
+Stage: Kingdom
+Population: 20,022
+Food: 82,514
+Treasury: 3,661
+Infrastructure: 7
+Technology: 9
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 540
+Stage: Kingdom
+Population: 17,850
+Food: 102,226
+Treasury: 4,431
+Infrastructure: 7
+Technology: 9
+Event: Disease
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 550
+Stage: Kingdom
+Population: 17,351
+Food: 89,250
+Treasury: 12,343
+Infrastructure: 7
+Technology: 9
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 560
+Stage: Kingdom
+Population: 15,929
+Food: 86,755
+Treasury: 6,192
+Infrastructure: 9
+Technology: 9
+Event: Disease
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 570
+Stage: Kingdom
+Population: 17,203
+Food: 94,783
+Treasury: 5,211
+Infrastructure: 7
+Technology: 9
+Event: Earthquake
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 580
+Stage: Kingdom
+Population: 18,579
+Food: 60,211
+Treasury: 14,870
+Infrastructure: 7
+Technology: 9
+Event: Drought
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 590
+Stage: Kingdom
+Population: 20,065
+Food: 51,141
+Treasury: 10,098
+Infrastructure: 8
+Technology: 9
+Event: Flood
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 600
+Stage: Kingdom
+Population: 21,670
+Food: 57,677
+Treasury: 10,536
+Infrastructure: 8
+Technology: 9
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 610
+Stage: Kingdom
+Population: 23,403
+Food: 43,408
+Treasury: 2,575
+Infrastructure: 8
+Technology: 10
+Event: Drought
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 620
+Stage: Kingdom
+Population: 21,600
+Food: 49,258
+Treasury: 13,036
+Infrastructure: 8
+Technology: 10
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 630
+Stage: Kingdom
+Population: 23,328
+Food: 54,658
+Treasury: 11,024
+Infrastructure: 10
+Technology: 10
+Event: Trade Boom
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 640
+Stage: Kingdom
+Population: 24,942
+Food: 60,490
+Treasury: 6,685
+Infrastructure: 10
+Technology: 10
+Event: Invasion
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 650
+Stage: Kingdom
+Population: 26,937
+Food: 66,725
+Treasury: 19,207
+Infrastructure: 8
+Technology: 10
+Event: Earthquake
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 660
+Stage: Kingdom
+Population: 24,243
+Food: 95,496
+Treasury: 12,559
+Infrastructure: 10
+Technology: 10
+Event: Excellent Harvest
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 670
+Stage: Kingdom
+Population: 26,182
+Food: 104,284
+Treasury: 13,075
+Infrastructure: 9
+Technology: 10
+Event: Flood
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 680
+Stage: Kingdom
+Population: 26,730
+Food: 110,829
+Treasury: 8,228
+Infrastructure: 9
+Technology: 10
+Event: Invasion
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 690
+Stage: Kingdom
+Population: 27,000
+Food: 117,511
+Treasury: 4,166
+Infrastructure: 11
+Technology: 10
+Event: Trade Boom
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 700
+Stage: Kingdom
+Population: 26,244
+Food: 124,261
+Treasury: 16,627
+Infrastructure: 11
+Technology: 10
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 710
+Stage: Kingdom
+Population: 28,343
+Food: 155,763
+Treasury: 23,182
+Infrastructure: 11
+Technology: 10
+Event: Trade Boom
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 720
+Stage: Kingdom
+Population: 26,019
+Food: 141,715
+Treasury: 13,674
+Infrastructure: 13
+Technology: 10
+Event: Disease
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 730
+Stage: Kingdom
+Population: 28,100
+Food: 169,123
+Treasury: 4,947
+Infrastructure: 13
+Technology: 11
+Event: Excellent Harvest
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 740
+Stage: Kingdom
+Population: 30,348
+Food: 140,500
+Treasury: 19,384
+Infrastructure: 11
+Technology: 11
+Event: Earthquake
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 750
+Stage: Kingdom
+Population: 29,498
+Food: 149,604
+Treasury: 5,495
+Infrastructure: 13
+Technology: 11
+Event: Invasion
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 760
+Stage: Kingdom
+Population: 31,857
+Food: 131,276
+Treasury: 6,090
+Infrastructure: 13
+Technology: 11
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 770
+Stage: Kingdom
+Population: 34,405
+Food: 140,833
+Treasury: 78
+Infrastructure: 13
+Technology: 12
+Event: Trade Boom
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 780
+Stage: Kingdom
+Population: 37,157
+Food: 152,874
+Treasury: 18,750
+Infrastructure: 11
+Technology: 12
+Event: Earthquake
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 790
+Stage: Kingdom
+Population: 33,441
+Food: 165,878
+Treasury: 8,601
+Infrastructure: 11
+Technology: 12
+Event: Earthquake
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 800
+Stage: Kingdom
+Population: 30,855
+Food: 167,205
+Treasury: 7,006
+Infrastructure: 11
+Technology: 12
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 810
+Stage: Kingdom
+Population: 33,000
+Food: 152,460
+Treasury: 7,721
+Infrastructure: 10
+Technology: 12
+Event: Flood
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 820
+Stage: Kingdom
+Population: 25,500
+Food: 164,010
+Treasury: 21,571
+Infrastructure: 10
+Technology: 12
+Event: Disease
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 830
+Stage: Kingdom
+Population: 23,409
+Food: 127,500
+Treasury: 12,888
+Infrastructure: 12
+Technology: 12
+Event: Disease
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 840
+Stage: Kingdom
+Population: 23,637
+Food: 117,045
+Treasury: 11,523
+Infrastructure: 12
+Technology: 12
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 850
+Stage: Kingdom
+Population: 22,975
+Food: 118,185
+Treasury: 20,782
+Infrastructure: 12
+Technology: 12
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 860
+Stage: Kingdom
+Population: 24,813
+Food: 80,413
+Treasury: 9,251
+Infrastructure: 14
+Technology: 12
+Event: Drought
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 870
+Stage: Kingdom
+Population: 25,056
+Food: 89,097
+Treasury: 7,753
+Infrastructure: 14
+Technology: 12
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 880
+Stage: Kingdom
+Population: 27,060
+Food: 151,037
+Treasury: 8,140
+Infrastructure: 14
+Technology: 12
+Event: Excellent Harvest
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 890
+Stage: Kingdom
+Population: 29,224
+Food: 175,890
+Treasury: 23,214
+Infrastructure: 14
+Technology: 12
+Event: Excellent Harvest
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 900
+Stage: Kingdom
+Population: 26,827
+Food: 146,120
+Treasury: 10,114
+Infrastructure: 16
+Technology: 12
+Event: Disease
+Investment: Infrastructure
+Advancement: Failed (chance 60%)
+
+YEAR 910
+Stage: Kingdom
+Population: 28,973
+Food: 159,630
+Treasury: 14,503
+Infrastructure: 16
+Technology: 12
+Event: Trade Boom
+Investment: Food
+Advancement: Failed (chance 80%)
+
+YEAR 920
+Stage: Empire
+Population: 30,977
+Food: 144,865
+Treasury: 8,838
+Infrastructure: 16
+Technology: 12
+Event: Invasion
+Investment: Population
+Advancement: ADVANCED to Empire (chance 60%)
+
+YEAR 930
+Stage: Empire
+Population: 33,455
+Food: 123,908
+Treasury: 26,096
+Infrastructure: 15
+Technology: 12
+Event: Flood
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 940
+Stage: Empire
+Population: 32,518
+Food: 135,617
+Treasury: 6,299
+Infrastructure: 17
+Technology: 12
+Event: Invasion
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 950
+Stage: Empire
+Population: 35,119
+Food: 148,503
+Treasury: 6,849
+Infrastructure: 16
+Technology: 12
+Event: Flood
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 960
+Stage: Empire
+Population: 37,928
+Food: 128,636
+Treasury: 26,500
+Infrastructure: 15
+Technology: 12
+Event: Flood
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 970
+Stage: Empire
+Population: 40,962
+Food: 113,528
+Treasury: 14,629
+Infrastructure: 16
+Technology: 12
+Event: Flood
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 980
+Stage: Empire
+Population: 44,238
+Food: 128,434
+Treasury: 15,538
+Infrastructure: 16
+Technology: 12
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 990
+Stage: Empire
+Population: 47,777
+Food: 187,092
+Treasury: 6,947
+Infrastructure: 16
+Technology: 13
+Event: Excellent Harvest
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 1000
+Stage: Empire
+Population: 43,200
+Food: 206,202
+Treasury: 27,510
+Infrastructure: 16
+Technology: 13
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1010
+Stage: Empire
+Population: 46,656
+Food: 216,000
+Treasury: 13,968
+Infrastructure: 18
+Technology: 14
+Event: Scientific Breakthrough
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1020
+Stage: Empire
+Population: 50,388
+Food: 277,621
+Treasury: 21,027
+Infrastructure: 18
+Technology: 14
+Event: Trade Boom
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1030
+Stage: Empire
+Population: 54,000
+Food: 251,940
+Treasury: 19,076
+Infrastructure: 18
+Technology: 15
+Event: Trade Boom
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 1040
+Stage: Empire
+Population: 54,000
+Food: 270,000
+Treasury: 2,600
+Infrastructure: 18
+Technology: 15
+Event: Earthquake
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1050
+Stage: Empire
+Population: 54,000
+Food: 263,520
+Treasury: 3,770
+Infrastructure: 17
+Technology: 15
+Event: Flood
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1060
+Stage: Empire
+Population: 47,685
+Food: 270,000
+Treasury: 1,305
+Infrastructure: 17
+Technology: 15
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 1070
+Stage: Empire
+Population: 51,000
+Food: 238,425
+Treasury: 26,784
+Infrastructure: 15
+Technology: 15
+Event: Earthquake
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1080
+Stage: Empire
+Population: 45,900
+Food: 255,000
+Treasury: 24,094
+Infrastructure: 17
+Technology: 15
+Event: Trade Boom
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1090
+Stage: Empire
+Population: 49,572
+Food: 341,972
+Treasury: 25,149
+Infrastructure: 17
+Technology: 15
+Event: Excellent Harvest
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1100
+Stage: Empire
+Population: 51,000
+Food: 247,860
+Treasury: 13,354
+Infrastructure: 17
+Technology: 16
+Event: No Major Event
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 1110
+Stage: Empire
+Population: 45,900
+Food: 255,000
+Treasury: 34,008
+Infrastructure: 17
+Technology: 16
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1120
+Stage: Empire
+Population: 49,572
+Food: 183,600
+Treasury: 20,820
+Infrastructure: 18
+Technology: 16
+Event: Flood
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1130
+Stage: Empire
+Population: 53,537
+Food: 194,716
+Treasury: 21,974
+Infrastructure: 18
+Technology: 16
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1140
+Stage: Empire
+Population: 53,460
+Food: 224,161
+Treasury: 13,116
+Infrastructure: 18
+Technology: 16
+Event: Invasion
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 1150
+Stage: Empire
+Population: 54,000
+Food: 202,852
+Treasury: 486
+Infrastructure: 17
+Technology: 17
+Event: Flood
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 1160
+Stage: Empire
+Population: 51,000
+Food: 280,132
+Treasury: 1,591
+Infrastructure: 17
+Technology: 18
+Event: Scientific Breakthrough
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1170
+Stage: Empire
+Population: 51,000
+Food: 255,000
+Treasury: 28,196
+Infrastructure: 17
+Technology: 18
+Event: No Major Event
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1180
+Stage: Empire
+Population: 51,000
+Food: 255,000
+Treasury: 14,001
+Infrastructure: 19
+Technology: 18
+Event: No Major Event
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1190
+Stage: Empire
+Population: 54,529
+Food: 255,000
+Treasury: 6,627
+Infrastructure: 19
+Technology: 18
+Event: Invasion
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 1200
+Stage: Empire
+Population: 57,000
+Food: 241,012
+Treasury: 7,862
+Infrastructure: 19
+Technology: 18
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1210
+Stage: Empire
+Population: 51,300
+Food: 278,062
+Treasury: 32,358
+Infrastructure: 19
+Technology: 18
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1220
+Stage: Empire
+Population: 55,404
+Food: 256,500
+Treasury: 16,277
+Infrastructure: 21
+Technology: 18
+Event: No Major Event
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1230
+Stage: Empire
+Population: 59,836
+Food: 246,568
+Treasury: 17,531
+Infrastructure: 21
+Technology: 18
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1240
+Stage: Empire
+Population: 63,000
+Food: 285,461
+Treasury: 11,154
+Infrastructure: 21
+Technology: 19
+Event: Trade Boom
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 1250
+Stage: Empire
+Population: 63,000
+Food: 409,500
+Treasury: 44,019
+Infrastructure: 21
+Technology: 19
+Event: Excellent Harvest
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1260
+Stage: Industrial Nation
+Population: 63,000
+Food: 315,000
+Treasury: 41,989
+Infrastructure: 23
+Technology: 19
+Event: Trade Boom
+Investment: Infrastructure
+Advancement: ADVANCED to Industrial Nation (chance 90%)
+
+YEAR 1270
+Stage: Industrial Nation
+Population: 67,359
+Food: 315,000
+Treasury: 27,957
+Infrastructure: 23
+Technology: 19
+Event: Invasion
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 1280
+Stage: Industrial Nation
+Population: 69,000
+Food: 330,156
+Treasury: 29,452
+Infrastructure: 22
+Technology: 19
+Event: Flood
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1290
+Stage: Industrial Nation
+Population: 56,100
+Food: 345,000
+Treasury: 11,082
+Infrastructure: 24
+Technology: 19
+Event: Disease
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1300
+Stage: Industrial Nation
+Population: 60,588
+Food: 224,400
+Treasury: 42,536
+Infrastructure: 23
+Technology: 19
+Event: Flood
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1310
+Stage: Industrial Nation
+Population: 65,435
+Food: 271,031
+Treasury: 43,906
+Infrastructure: 22
+Technology: 19
+Event: Flood
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1320
+Stage: Industrial Nation
+Population: 66,000
+Food: 253,468
+Treasury: 26,736
+Infrastructure: 23
+Technology: 19
+Event: Flood
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1330
+Stage: Industrial Nation
+Population: 64,515
+Food: 299,668
+Treasury: 23,401
+Infrastructure: 23
+Technology: 19
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 1340
+Stage: Industrial Nation
+Population: 62,100
+Food: 377,223
+Treasury: 19,227
+Infrastructure: 23
+Technology: 19
+Event: Invasion
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1350
+Stage: Industrial Nation
+Population: 67,068
+Food: 403,650
+Treasury: 4,561
+Infrastructure: 23
+Technology: 20
+Event: Excellent Harvest
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 1360
+Stage: Industrial Nation
+Population: 62,100
+Food: 335,340
+Treasury: 35,205
+Infrastructure: 23
+Technology: 20
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1370
+Stage: Industrial Nation
+Population: 67,068
+Food: 248,400
+Treasury: 16,939
+Infrastructure: 24
+Technology: 20
+Event: Flood
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1380
+Stage: Industrial Nation
+Population: 71,280
+Food: 298,701
+Treasury: 7,600
+Infrastructure: 24
+Technology: 20
+Event: Invasion
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 1390
+Stage: Industrial Nation
+Population: 64,800
+Food: 352,161
+Treasury: 39,008
+Infrastructure: 24
+Technology: 20
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1400
+Stage: Industrial Nation
+Population: 69,984
+Food: 324,000
+Treasury: 18,695
+Infrastructure: 26
+Technology: 20
+Event: No Major Event
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1410
+Stage: Industrial Nation
+Population: 75,582
+Food: 416,431
+Treasury: 28,657
+Infrastructure: 26
+Technology: 20
+Event: Trade Boom
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1420
+Stage: Industrial Nation
+Population: 72,930
+Food: 377,910
+Treasury: 24,887
+Infrastructure: 26
+Technology: 20
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 1430
+Stage: Industrial Nation
+Population: 78,000
+Food: 364,650
+Treasury: 13,490
+Infrastructure: 28
+Technology: 20
+Event: Trade Boom
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1440
+Stage: Industrial Nation
+Population: 84,000
+Food: 580,920
+Treasury: 15,310
+Infrastructure: 28
+Technology: 20
+Event: Excellent Harvest
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1450
+Stage: Industrial Nation
+Population: 84,000
+Food: 336,000
+Treasury: 1,530
+Infrastructure: 27
+Technology: 21
+Event: Flood
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 1460
+Stage: Industrial Nation
+Population: 81,000
+Food: 282,240
+Treasury: 43,785
+Infrastructure: 27
+Technology: 21
+Event: Drought
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1470
+Stage: Industrial Nation
+Population: 81,000
+Food: 242,928
+Treasury: 21,240
+Infrastructure: 29
+Technology: 21
+Event: Drought
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1480
+Stage: Industrial Nation
+Population: 81,345
+Food: 307,728
+Treasury: 17,035
+Infrastructure: 29
+Technology: 21
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 1490
+Stage: Industrial Nation
+Population: 87,000
+Food: 337,523
+Treasury: 18,920
+Infrastructure: 29
+Technology: 21
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1500
+Stage: Industrial Nation
+Population: 87,000
+Food: 529,259
+Treasury: 4,305
+Infrastructure: 29
+Technology: 22
+Event: Excellent Harvest
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 1510
+Stage: Industrial Nation
+Population: 87,000
+Food: 348,000
+Treasury: 49,690
+Infrastructure: 28
+Technology: 22
+Event: Flood
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1520
+Stage: Modern Nation
+Population: 84,000
+Food: 421,950
+Treasury: 44,283
+Infrastructure: 30
+Technology: 22
+Event: Trade Boom
+Investment: Infrastructure
+Advancement: ADVANCED to Modern Nation (chance 80%)
+
+YEAR 1530
+Stage: Modern Nation
+Population: 90,000
+Food: 499,200
+Treasury: 46,233
+Infrastructure: 30
+Technology: 23
+Event: Scientific Breakthrough
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1540
+Stage: Modern Nation
+Population: 90,000
+Food: 360,000
+Treasury: 29,583
+Infrastructure: 29
+Technology: 24
+Event: Flood
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 1550
+Stage: Modern Nation
+Population: 87,000
+Food: 445,500
+Treasury: 1,743
+Infrastructure: 29
+Technology: 24
+Event: Earthquake
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1560
+Stage: Modern Nation
+Population: 87,000
+Food: 642,060
+Treasury: 3,628
+Infrastructure: 29
+Technology: 24
+Event: Excellent Harvest
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1570
+Stage: Modern Nation
+Population: 78,300
+Food: 435,000
+Treasury: 42,691
+Infrastructure: 29
+Technology: 24
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1580
+Stage: Modern Nation
+Population: 84,564
+Food: 391,500
+Treasury: 34,031
+Infrastructure: 31
+Technology: 24
+Event: Trade Boom
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1590
+Stage: Modern Nation
+Population: 91,329
+Food: 503,189
+Treasury: 29,220
+Infrastructure: 29
+Technology: 24
+Event: Earthquake
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1600
+Stage: Modern Nation
+Population: 87,000
+Food: 456,645
+Treasury: 11,005
+Infrastructure: 29
+Technology: 25
+Event: No Major Event
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 1610
+Stage: Modern Nation
+Population: 87,000
+Food: 565,500
+Treasury: 56,390
+Infrastructure: 29
+Technology: 25
+Event: Excellent Harvest
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1620
+Stage: Modern Nation
+Population: 87,000
+Food: 304,500
+Treasury: 32,175
+Infrastructure: 31
+Technology: 25
+Event: Drought
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1630
+Stage: Modern Nation
+Population: 86,955
+Food: 391,500
+Treasury: 27,680
+Infrastructure: 31
+Technology: 25
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 1640
+Stage: Modern Nation
+Population: 79,050
+Food: 504,339
+Treasury: 31,090
+Infrastructure: 31
+Technology: 25
+Event: Disease
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1650
+Stage: Modern Nation
+Population: 85,374
+Food: 395,250
+Treasury: 369
+Infrastructure: 31
+Technology: 25
+Event: Earthquake
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1660
+Stage: Modern Nation
+Population: 92,203
+Food: 554,931
+Treasury: 48,457
+Infrastructure: 31
+Technology: 25
+Event: Excellent Harvest
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1670
+Stage: Modern Nation
+Population: 93,000
+Food: 404,551
+Treasury: 50,472
+Infrastructure: 31
+Technology: 25
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1680
+Stage: Modern Nation
+Population: 93,000
+Food: 604,500
+Treasury: 24,587
+Infrastructure: 33
+Technology: 25
+Event: Excellent Harvest
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1690
+Stage: Modern Nation
+Population: 99,000
+Food: 325,500
+Treasury: 6,632
+Infrastructure: 33
+Technology: 26
+Event: Drought
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 1700
+Stage: Modern Nation
+Population: 89,100
+Food: 429,449
+Treasury: 50,582
+Infrastructure: 33
+Technology: 26
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1710
+Stage: Modern Nation
+Population: 96,228
+Food: 445,500
+Treasury: 15,715
+Infrastructure: 33
+Technology: 26
+Event: Earthquake
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1720
+Stage: Modern Nation
+Population: 99,000
+Food: 568,260
+Treasury: 13,696
+Infrastructure: 31
+Technology: 26
+Event: Earthquake
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1730
+Stage: Modern Nation
+Population: 93,000
+Food: 346,500
+Treasury: 62,211
+Infrastructure: 31
+Technology: 26
+Event: Drought
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1740
+Stage: Modern Nation
+Population: 83,700
+Food: 444,149
+Treasury: 21,621
+Infrastructure: 33
+Technology: 26
+Event: Invasion
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1750
+Stage: Modern Nation
+Population: 90,396
+Food: 498,047
+Treasury: 18,590
+Infrastructure: 31
+Technology: 26
+Event: Earthquake
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1760
+Stage: Modern Nation
+Population: 83,700
+Food: 451,980
+Treasury: 57,404
+Infrastructure: 31
+Technology: 26
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1770
+Stage: Modern Nation
+Population: 90,396
+Food: 334,800
+Treasury: 32,367
+Infrastructure: 32
+Technology: 26
+Event: Flood
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1780
+Stage: Modern Nation
+Population: 96,000
+Food: 514,195
+Treasury: 47,661
+Infrastructure: 32
+Technology: 26
+Event: Trade Boom
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1790
+Stage: Modern Nation
+Population: 96,000
+Food: 480,000
+Treasury: 45,943
+Infrastructure: 32
+Technology: 27
+Event: Trade Boom
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 1800
+Stage: Modern Nation
+Population: 96,000
+Food: 480,000
+Treasury: 19,223
+Infrastructure: 34
+Technology: 27
+Event: No Major Event
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1810
+Stage: Modern Nation
+Population: 95,370
+Food: 480,000
+Treasury: 14,293
+Infrastructure: 34
+Technology: 27
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 1820
+Stage: Modern Nation
+Population: 102,000
+Food: 471,240
+Treasury: 16,503
+Infrastructure: 33
+Technology: 27
+Event: Flood
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1830
+Stage: Modern Nation
+Population: 84,150
+Food: 510,000
+Treasury: 62,208
+Infrastructure: 33
+Technology: 27
+Event: Disease
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1840
+Stage: Modern Nation
+Population: 90,882
+Food: 294,525
+Treasury: 33,557
+Infrastructure: 35
+Technology: 27
+Event: Drought
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1850
+Stage: Modern Nation
+Population: 91,773
+Food: 394,495
+Treasury: 28,721
+Infrastructure: 35
+Technology: 27
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 1860
+Stage: Modern Nation
+Population: 99,114
+Food: 546,085
+Treasury: 30,790
+Infrastructure: 35
+Technology: 27
+Event: No Major Event
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1870
+Stage: Modern Nation
+Population: 105,000
+Food: 346,899
+Treasury: 1,565
+Infrastructure: 37
+Technology: 27
+Event: Drought
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1880
+Stage: Modern Nation
+Population: 99,900
+Food: 462,399
+Treasury: 52,016
+Infrastructure: 37
+Technology: 27
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1890
+Stage: Modern Nation
+Population: 107,892
+Food: 594,444
+Treasury: 73,842
+Infrastructure: 37
+Technology: 27
+Event: Trade Boom
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1900
+Stage: Modern Nation
+Population: 111,000
+Food: 431,568
+Treasury: 44,147
+Infrastructure: 38
+Technology: 27
+Event: Flood
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1910
+Stage: Modern Nation
+Population: 112,860
+Food: 553,668
+Treasury: 25,894
+Infrastructure: 38
+Technology: 27
+Event: Invasion
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 1920
+Stage: Modern Nation
+Population: 102,600
+Food: 564,300
+Treasury: 72,852
+Infrastructure: 38
+Technology: 27
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1930
+Stage: Modern Nation
+Population: 110,808
+Food: 513,000
+Treasury: 30,148
+Infrastructure: 38
+Technology: 27
+Event: Earthquake
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 1940
+Stage: Modern Nation
+Population: 114,000
+Food: 488,148
+Treasury: 32,618
+Infrastructure: 38
+Technology: 27
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1950
+Stage: Modern Nation
+Population: 112,860
+Food: 570,000
+Treasury: 16,671
+Infrastructure: 38
+Technology: 27
+Event: Invasion
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 1960
+Stage: Modern Nation
+Population: 114,000
+Food: 564,300
+Treasury: 7,303
+Infrastructure: 38
+Technology: 28
+Event: Trade Boom
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 1970
+Stage: Modern Nation
+Population: 114,000
+Food: 670,320
+Treasury: 16,124
+Infrastructure: 38
+Technology: 28
+Event: Trade Boom
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 1980
+Stage: Modern Nation
+Population: 114,000
+Food: 570,000
+Treasury: 71,095
+Infrastructure: 36
+Technology: 28
+Event: Earthquake
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 1990
+Stage: Modern Nation
+Population: 108,000
+Food: 456,000
+Treasury: 42,235
+Infrastructure: 37
+Technology: 28
+Event: Flood
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2000
+Stage: Modern Nation
+Population: 109,890
+Food: 540,000
+Treasury: 24,612
+Infrastructure: 37
+Technology: 28
+Event: Invasion
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 2010
+Stage: Modern Nation
+Population: 94,350
+Food: 632,478
+Treasury: 28,682
+Infrastructure: 37
+Technology: 28
+Event: Disease
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2020
+Stage: Modern Nation
+Population: 86,614
+Food: 471,750
+Treasury: 7,358
+Infrastructure: 37
+Technology: 29
+Event: Disease
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 2030
+Stage: Modern Nation
+Population: 87,463
+Food: 433,070
+Treasury: 2,604
+Infrastructure: 37
+Technology: 29
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 2040
+Stage: Modern Nation
+Population: 94,460
+Food: 432,976
+Treasury: 4,430
+Infrastructure: 36
+Technology: 29
+Event: Flood
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2050
+Stage: Modern Nation
+Population: 86,714
+Food: 472,300
+Treasury: 51,447
+Infrastructure: 36
+Technology: 29
+Event: Disease
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2060
+Stage: Modern Nation
+Population: 84,286
+Food: 433,570
+Treasury: 6,920
+Infrastructure: 38
+Technology: 29
+Event: Invasion
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2070
+Stage: Modern Nation
+Population: 91,028
+Food: 501,534
+Treasury: 5,933
+Infrastructure: 36
+Technology: 29
+Event: Earthquake
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2080
+Stage: Modern Nation
+Population: 91,920
+Food: 455,140
+Treasury: 1,052
+Infrastructure: 36
+Technology: 29
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 2090
+Stage: Modern Nation
+Population: 84,383
+Food: 459,600
+Treasury: 46,766
+Infrastructure: 36
+Technology: 29
+Event: Disease
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2100
+Stage: Modern Nation
+Population: 91,133
+Food: 337,532
+Treasury: 15,628
+Infrastructure: 37
+Technology: 29
+Event: Flood
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2110
+Stage: Modern Nation
+Population: 92,026
+Food: 446,891
+Treasury: 10,703
+Infrastructure: 37
+Technology: 29
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 2120
+Stage: Modern Nation
+Population: 99,388
+Food: 547,591
+Treasury: 12,702
+Infrastructure: 37
+Technology: 30
+Event: Scientific Breakthrough
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2130
+Stage: Modern Nation
+Population: 107,339
+Food: 397,552
+Treasury: 68,647
+Infrastructure: 36
+Technology: 30
+Event: Flood
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2140
+Stage: Modern Nation
+Population: 97,200
+Food: 531,725
+Treasury: 22,230
+Infrastructure: 38
+Technology: 30
+Event: Invasion
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2150
+Stage: Modern Nation
+Population: 104,976
+Food: 724,178
+Treasury: 24,384
+Infrastructure: 38
+Technology: 30
+Event: Excellent Harvest
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2160
+Stage: Modern Nation
+Population: 113,374
+Food: 682,344
+Treasury: 2,169
+Infrastructure: 38
+Technology: 31
+Event: Excellent Harvest
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 2170
+Stage: Modern Nation
+Population: 114,000
+Food: 566,870
+Treasury: 59,234
+Infrastructure: 36
+Technology: 31
+Event: Earthquake
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2180
+Stage: Modern Nation
+Population: 108,000
+Food: 456,000
+Treasury: 30,374
+Infrastructure: 37
+Technology: 31
+Event: Flood
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2190
+Stage: Modern Nation
+Population: 111,000
+Food: 637,680
+Treasury: 26,198
+Infrastructure: 35
+Technology: 31
+Event: Earthquake
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2200
+Stage: Modern Nation
+Population: 98,175
+Food: 555,000
+Treasury: 21,123
+Infrastructure: 35
+Technology: 31
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 2210
+Stage: Modern Nation
+Population: 105,000
+Food: 490,875
+Treasury: 2,067
+Infrastructure: 37
+Technology: 31
+Event: Trade Boom
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2220
+Stage: Modern Nation
+Population: 99,900
+Food: 525,000
+Treasury: 52,418
+Infrastructure: 37
+Technology: 31
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2230
+Stage: Modern Nation
+Population: 107,892
+Food: 494,544
+Treasury: 54,714
+Infrastructure: 36
+Technology: 31
+Event: Flood
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2240
+Stage: Modern Nation
+Population: 91,800
+Food: 539,460
+Treasury: 24,654
+Infrastructure: 38
+Technology: 31
+Event: Disease
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2250
+Stage: Modern Nation
+Population: 99,144
+Food: 459,000
+Treasury: 10,273
+Infrastructure: 38
+Technology: 32
+Event: Trade Boom
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 2260
+Stage: Modern Nation
+Population: 107,075
+Food: 589,946
+Treasury: 19,463
+Infrastructure: 38
+Technology: 32
+Event: Trade Boom
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2270
+Stage: Modern Nation
+Population: 125,400
+Food: 535,375
+Treasury: 20,532
+Infrastructure: 38
+Technology: 32
+Event: Trade Boom
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 2280
+Stage: Modern Nation
+Population: 114,000
+Food: 501,600
+Treasury: 80,002
+Infrastructure: 37
+Technology: 32
+Event: Flood
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2290
+Stage: Digital Society
+Population: 99,900
+Food: 570,000
+Treasury: 30,406
+Infrastructure: 39
+Technology: 32
+Event: Invasion
+Investment: Infrastructure
+Advancement: ADVANCED to Digital Society (chance 60%)
+
+YEAR 2300
+Stage: Digital Society
+Population: 100,879
+Food: 499,500
+Treasury: 25,070
+Infrastructure: 39
+Technology: 32
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 2310
+Stage: Digital Society
+Population: 108,949
+Food: 448,951
+Treasury: 27,324
+Infrastructure: 39
+Technology: 32
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2320
+Stage: Digital Society
+Population: 117,000
+Food: 544,745
+Treasury: 82,126
+Infrastructure: 37
+Technology: 32
+Event: Earthquake
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2330
+Stage: Digital Society
+Population: 94,350
+Food: 585,000
+Treasury: 51,231
+Infrastructure: 39
+Technology: 32
+Event: Disease
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2340
+Stage: Digital Society
+Population: 101,898
+Food: 467,069
+Treasury: 53,238
+Infrastructure: 38
+Technology: 32
+Event: Flood
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2350
+Stage: Digital Society
+Population: 110,049
+Food: 407,592
+Treasury: 28,174
+Infrastructure: 37
+Technology: 33
+Event: Flood
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 2360
+Stage: Digital Society
+Population: 122,100
+Food: 440,196
+Treasury: 19,479
+Infrastructure: 36
+Technology: 33
+Event: Flood
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 2370
+Stage: Digital Society
+Population: 109,890
+Food: 707,203
+Treasury: 31,747
+Infrastructure: 36
+Technology: 33
+Event: Trade Boom
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2380
+Stage: Digital Society
+Population: 108,000
+Food: 549,450
+Treasury: 81,354
+Infrastructure: 34
+Technology: 33
+Event: Earthquake
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2390
+Stage: Digital Society
+Population: 91,800
+Food: 540,000
+Treasury: 34,212
+Infrastructure: 36
+Technology: 33
+Event: Invasion
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2400
+Stage: Digital Society
+Population: 99,144
+Food: 683,946
+Treasury: 36,242
+Infrastructure: 36
+Technology: 33
+Event: Excellent Harvest
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2410
+Stage: Digital Society
+Population: 107,075
+Food: 396,576
+Treasury: 9,657
+Infrastructure: 35
+Technology: 34
+Event: Flood
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 2420
+Stage: Digital Society
+Population: 94,500
+Food: 535,375
+Treasury: 55,746
+Infrastructure: 35
+Technology: 34
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2430
+Stage: Digital Society
+Population: 102,060
+Food: 330,750
+Treasury: 26,124
+Infrastructure: 37
+Technology: 34
+Event: Drought
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2440
+Stage: Digital Society
+Population: 103,060
+Food: 478,737
+Treasury: 20,786
+Infrastructure: 37
+Technology: 34
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 2450
+Stage: Digital Society
+Population: 111,000
+Food: 515,300
+Treasury: 73,548
+Infrastructure: 35
+Technology: 34
+Event: Earthquake
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2460
+Stage: Digital Society
+Population: 105,000
+Food: 388,500
+Treasury: 44,323
+Infrastructure: 37
+Technology: 34
+Event: Drought
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2470
+Stage: Digital Society
+Population: 111,000
+Food: 465,180
+Treasury: 46,728
+Infrastructure: 37
+Technology: 34
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2480
+Stage: Digital Society
+Population: 109,890
+Food: 555,000
+Treasury: 28,207
+Infrastructure: 37
+Technology: 34
+Event: Invasion
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 2490
+Stage: Digital Society
+Population: 94,350
+Food: 549,450
+Treasury: 912
+Infrastructure: 37
+Technology: 35
+Event: Disease
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 2500
+Stage: Digital Society
+Population: 101,898
+Food: 561,419
+Treasury: 6,955
+Infrastructure: 37
+Technology: 35
+Event: Trade Boom
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2510
+Stage: Digital Society
+Population: 99,045
+Food: 509,490
+Treasury: 55,883
+Infrastructure: 37
+Technology: 35
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2520
+Stage: Digital Society
+Population: 106,968
+Food: 346,658
+Treasury: 24,443
+Infrastructure: 39
+Technology: 35
+Event: Drought
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2530
+Stage: Digital Society
+Population: 115,525
+Food: 608,772
+Treasury: 26,926
+Infrastructure: 39
+Technology: 36
+Event: Scientific Breakthrough
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2540
+Stage: Digital Society
+Population: 117,000
+Food: 462,100
+Treasury: 87,961
+Infrastructure: 38
+Technology: 36
+Event: Flood
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2550
+Stage: Digital Society
+Population: 114,000
+Food: 409,500
+Treasury: 56,231
+Infrastructure: 40
+Technology: 36
+Event: Drought
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2560
+Stage: Digital Society
+Population: 118,800
+Food: 570,000
+Treasury: 35,065
+Infrastructure: 40
+Technology: 36
+Event: Invasion
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 2570
+Stage: Digital Society
+Population: 120,000
+Food: 580,800
+Treasury: 37,665
+Infrastructure: 39
+Technology: 36
+Event: Flood
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2580
+Stage: Digital Society
+Population: 117,000
+Food: 780,000
+Treasury: 5,100
+Infrastructure: 41
+Technology: 36
+Event: Excellent Harvest
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2590
+Stage: Digital Society
+Population: 110,700
+Food: 585,000
+Treasury: 60,332
+Infrastructure: 41
+Technology: 36
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2600
+Stage: Digital Society
+Population: 118,361
+Food: 553,500
+Treasury: 38,346
+Infrastructure: 41
+Technology: 36
+Event: Invasion
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 2610
+Stage: Digital Society
+Population: 110,700
+Food: 689,221
+Treasury: 31,579
+Infrastructure: 41
+Technology: 36
+Event: Invasion
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2620
+Stage: Digital Society
+Population: 119,556
+Food: 553,500
+Treasury: 86,990
+Infrastructure: 39
+Technology: 36
+Event: Earthquake
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2630
+Stage: Digital Society
+Population: 117,000
+Food: 777,114
+Treasury: 54,425
+Infrastructure: 41
+Technology: 36
+Event: Excellent Harvest
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2640
+Stage: Digital Society
+Population: 115,005
+Food: 585,000
+Treasury: 48,480
+Infrastructure: 41
+Technology: 36
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 2650
+Stage: Digital Society
+Population: 123,000
+Food: 683,265
+Treasury: 41,629
+Infrastructure: 39
+Technology: 36
+Event: Earthquake
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2660
+Stage: Digital Society
+Population: 105,300
+Food: 615,000
+Treasury: 86,812
+Infrastructure: 39
+Technology: 36
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2670
+Stage: Digital Society
+Population: 113,724
+Food: 421,200
+Treasury: 55,004
+Infrastructure: 40
+Technology: 36
+Event: Flood
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2680
+Stage: Digital Society
+Population: 120,000
+Food: 560,496
+Treasury: 57,604
+Infrastructure: 39
+Technology: 36
+Event: Flood
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2690
+Stage: Digital Society
+Population: 117,000
+Food: 600,000
+Treasury: 27,439
+Infrastructure: 39
+Technology: 38
+Event: Scientific Breakthrough
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 2700
+Stage: Digital Society
+Population: 117,000
+Food: 585,000
+Treasury: 88,474
+Infrastructure: 39
+Technology: 38
+Event: No Major Event
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2710
+Stage: Digital Society
+Population: 117,000
+Food: 585,000
+Treasury: 55,909
+Infrastructure: 41
+Technology: 39
+Event: Scientific Breakthrough
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2720
+Stage: Digital Society
+Population: 123,000
+Food: 693,240
+Treasury: 58,574
+Infrastructure: 41
+Technology: 40
+Event: Scientific Breakthrough
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2730
+Stage: Digital Society
+Population: 123,000
+Food: 615,000
+Treasury: 111,709
+Infrastructure: 39
+Technology: 40
+Event: Earthquake
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2740
+Stage: Digital Society
+Population: 105,300
+Food: 615,000
+Treasury: 53,956
+Infrastructure: 41
+Technology: 40
+Event: Invasion
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2750
+Stage: Digital Society
+Population: 113,724
+Food: 468,626
+Treasury: 56,296
+Infrastructure: 41
+Technology: 40
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2760
+Stage: Digital Society
+Population: 122,821
+Food: 398,034
+Treasury: 23,236
+Infrastructure: 41
+Technology: 41
+Event: Drought
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 2770
+Stage: Digital Society
+Population: 123,000
+Food: 429,874
+Treasury: 87,401
+Infrastructure: 41
+Technology: 41
+Event: Drought
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2780
+Stage: Digital Society
+Population: 110,700
+Food: 615,000
+Treasury: 32,693
+Infrastructure: 43
+Technology: 41
+Event: Invasion
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2790
+Stage: Digital Society
+Population: 111,785
+Food: 553,500
+Treasury: 26,789
+Infrastructure: 43
+Technology: 41
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 2800
+Stage: Digital Society
+Population: 120,727
+Food: 558,925
+Treasury: 83,452
+Infrastructure: 41
+Technology: 41
+Event: Earthquake
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2810
+Stage: Digital Society
+Population: 104,550
+Food: 603,635
+Treasury: 49,217
+Infrastructure: 43
+Technology: 41
+Event: Disease
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2820
+Stage: Digital Society
+Population: 105,574
+Food: 522,750
+Treasury: 43,545
+Infrastructure: 43
+Technology: 41
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 2830
+Stage: Digital Society
+Population: 96,917
+Food: 613,156
+Treasury: 47,526
+Infrastructure: 43
+Technology: 41
+Event: Disease
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2840
+Stage: Digital Society
+Population: 104,670
+Food: 339,210
+Treasury: 8,336
+Infrastructure: 45
+Technology: 41
+Event: Drought
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2850
+Stage: Digital Society
+Population: 113,043
+Food: 418,680
+Treasury: 67,013
+Infrastructure: 44
+Technology: 41
+Event: Flood
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2860
+Stage: Digital Society
+Population: 114,151
+Food: 565,215
+Treasury: 60,980
+Infrastructure: 44
+Technology: 41
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 2870
+Stage: Digital Society
+Population: 123,283
+Food: 570,755
+Treasury: 14,084
+Infrastructure: 44
+Technology: 41
+Event: Earthquake
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2880
+Stage: Digital Society
+Population: 118,800
+Food: 616,415
+Treasury: 71,636
+Infrastructure: 44
+Technology: 41
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2890
+Stage: Digital Society
+Population: 128,304
+Food: 885,107
+Treasury: 74,367
+Infrastructure: 44
+Technology: 41
+Event: Excellent Harvest
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2900
+Stage: Digital Society
+Population: 118,800
+Food: 641,520
+Treasury: 19,542
+Infrastructure: 46
+Technology: 41
+Event: Invasion
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2910
+Stage: Digital Society
+Population: 115,474
+Food: 594,000
+Treasury: 74,208
+Infrastructure: 46
+Technology: 41
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2920
+Stage: Digital Society
+Population: 124,711
+Food: 513,903
+Treasury: 76,732
+Infrastructure: 46
+Technology: 41
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2930
+Stage: Digital Society
+Population: 134,687
+Food: 623,555
+Treasury: 37,874
+Infrastructure: 48
+Technology: 42
+Event: Scientific Breakthrough
+Investment: Infrastructure
+Advancement: Requirements not met
+
+YEAR 2940
+Stage: Digital Society
+Population: 129,600
+Food: 673,435
+Treasury: 96,156
+Infrastructure: 48
+Technology: 42
+Event: Invasion
+Investment: Treasury
+Advancement: Requirements not met
+
+YEAR 2950
+Stage: Digital Society
+Population: 139,968
+Food: 576,771
+Treasury: 99,135
+Infrastructure: 48
+Technology: 42
+Event: Drought
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 2960
+Stage: Interplanetary Civilisation
+Population: 144,000
+Food: 699,840
+Treasury: 94,051
+Infrastructure: 50
+Technology: 42
+Event: Trade Boom
+Investment: Infrastructure
+Advancement: ADVANCED to Interplanetary Civilisation (chance 90%)
+
+YEAR 2970
+Stage: Interplanetary Civilisation
+Population: 150,000
+Food: 936,000
+Treasury: 61,901
+Infrastructure: 50
+Technology: 43
+Event: Excellent Harvest
+Investment: Technology
+Advancement: Requirements not met
+
+YEAR 2980
+Stage: Interplanetary Civilisation
+Population: 140,250
+Food: 750,000
+Treasury: 54,651
+Infrastructure: 50
+Technology: 43
+Event: Disease
+Investment: Population
+Advancement: Requirements not met
+
+YEAR 2990
+Stage: Interplanetary Civilisation
+Population: 135,000
+Food: 820,050
+Treasury: 44,821
+Infrastructure: 50
+Technology: 43
+Event: Invasion
+Investment: Food
+Advancement: Requirements not met
+
+YEAR 3000
+Stage: Interplanetary Civilisation
+Population: 123,930
+Food: 675,000
+Treasury: 2,504
+Infrastructure: 52
+Technology: 43
+Event: Disease
+Investment: Infrastructure
+Advancement: Requirements not met
+
+SIMULATION ENDED IN YEAR 3000: YEAR 3000 REACHED

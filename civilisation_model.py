@@ -41,15 +41,38 @@ class Civilisation:
             and student_id.isdigit()
         )
 
+    def make_progress_bar(self, value, maximum, width=20):
+        percentage = max(0, min(value / maximum, 1))
+        filled = int(percentage * width)
+
+        bar = "█" * filled + "░" * (width - filled)
+
+        return f"[{bar}] {percentage:.0%}"
+
     def display_resources(self):
-        print(f"Student ID: {self.student_id}")
-        print(f"Year: {self.year}")
-        print(f"Stage: {self.stage}")
-        print(f"Population: {self.population:,}")
-        print(f"Food: {self.food:,}")
-        print(f"Treasury: {self.treasury:,}")
-        print(f"Infrastructure: {self.infrastructure:,}")
-        print(f"Technology: {self.technology:,}")
+        print("\n" + "=" * 65)
+        print("                 🏛️  CIVILISATION SUMMARY")
+        print(f"                 📅 YEAR {self.year}  |  STAGE {self.stage}")
+        print("=" * 65)
+
+        resources = [
+            ("Population", self.population, 200_000),
+            ("Food", self.food, 1_500_000),
+            ("Treasury", self.treasury, 150_000),
+            ("Infrastructure", self.infrastructure, 100),
+            ("Technology", self.technology, 50)
+        ]
+
+        icons = ["👥", "🌾", "💰", "🏗️", "🔬"]
+
+        print("RESOURCE OVERVIEW")
+        print("-" * 65)
+
+        for (name, value, maximum), icon in zip(resources, icons):
+            bar = self.make_progress_bar(value, maximum)
+            label = f"{icon} {name}"
+            separator = "    " if name == "Infrastructure" else "  "
+            print(f"{label:<23} {value:>10,}{separator}{bar}")
 
     def update_resources(self, rules):
         adjusted_rules = self.trait.adjust_rules(rules)
@@ -69,8 +92,11 @@ class Civilisation:
 
         self.food += production - consumption
 
+
         storage_limit = int(
-            self.population * adjusted_rules["food_storage_turns"]
+            self.population
+            * adjusted_rules["food_per_person"]
+            * adjusted_rules["food_storage_turns"]
         )
 
         if self.food > storage_limit:
@@ -187,7 +213,13 @@ class Civilisation:
 
         elif resource == "Technology":
             self.technology += gain
-            
+        self.population = max(0, self.population)
+
+
+        self.food = max(0, self.food)
+        self.treasury = max(0, self.treasury)
+        self.infrastructure = max(1, self.infrastructure)
+        self.technology = max(1, self.technology)
         self.start_cooldown(resource, rules)
 
 
@@ -246,7 +278,7 @@ class Civilisation:
             return "Food has been zero for two consecutive turns"
 
         if self.stage == 10:
-            return "Space Colony reached"
+            return "SPACE COLONY REACHED"
 
         if self.year >= self.MAX_YEAR:
             return "Year 3000 reached"

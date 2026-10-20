@@ -76,9 +76,8 @@ class EngineeringTrait:
         adjusted_rules["growth_rate"] *= 0.95
         return adjusted_rules
 
+
     def priority_bonus(self, resource):
-        if resource.lower() == "infrastructure":
-            return 6
         return 0
 
     def investment_gain(self, resource, base_gain):
