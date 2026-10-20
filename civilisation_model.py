@@ -162,7 +162,6 @@ class Civilisation:
             else:
                 change = amount
 
-            # Militaristic trait reduces damaging event losses by 25%.
             if change < 0 and self.trait.NAME == "Militaristic":
                 change = self.trait.reduce_event_loss(resource, change)
 
